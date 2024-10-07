@@ -1,0 +1,1 @@
+Desarrollar un programa que permita gestionar informacion sobre vehiculos a vender, especificamente auto o moto. El vehiculo que muestre el nombre del dueño, el año de la marca y el precio. tambien que tenga una descripcion del vehiculo que retorne informacio basica sobre el propietario y vehiculo
